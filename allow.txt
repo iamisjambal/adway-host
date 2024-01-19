@@ -1,0 +1,5 @@
+app.appsflyer.com
+invol.co
+pagead2.googleadservices.com
+pagead2.googlesyndication.com
+s.youtube.com
