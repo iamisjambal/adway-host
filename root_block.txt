@@ -1,0 +1,7 @@
+vpbank.zimperium.com
+zapac-rfd.zimperium.com
+cdn.zimperium.com
+edge.zimperium.com
+stest.zimperium.com
+zapac.zimperium.com
+s3.brimo.nsgt.bri.co.id
